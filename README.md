@@ -12,3 +12,22 @@
 alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
+<details>
+1
+<summary>
+(1)
+</summary>
+</details>
+
+  <details>
+2
+<summary>
+(2)
+</summary>
+</details>
+<details>
+3
+<summary>
+(3)
+</summary>
+</details>
